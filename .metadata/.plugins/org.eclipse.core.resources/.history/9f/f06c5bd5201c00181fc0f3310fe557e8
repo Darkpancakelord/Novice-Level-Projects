@@ -1,0 +1,14 @@
+package account_manager;
+
+import password.creator.Account;
+
+public class EntryPoint {
+
+	public static void main(String[] args) {
+		Account ayy = new Account("Firefox");
+		ayy.generatePassword(11);
+		System.out.println(ayy.toString());
+
+	}
+
+}

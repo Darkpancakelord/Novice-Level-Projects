@@ -1,0 +1,3 @@
+INDEX VERSION 1.130+/home/darkpancakelord/Desktop/Fun Programs/.metadata/.plugins/org.eclipse.jdt.core
+1197117639.index
+1275180592.index
